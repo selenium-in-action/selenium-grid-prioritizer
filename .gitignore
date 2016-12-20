@@ -1,0 +1,11 @@
+.project
+.settings/
+.classpath
+target/
+logs/
+bin
+test-output
+doc
+chromedriver.log
+testng.out.xml
+.DS_Store
